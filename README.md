@@ -1,4 +1,4 @@
-Data Generation Methods
+### Data Generation Methods
 I examined two data generation methods:
 
 Method 1: Instruction-based Data Generation with txtinstruct
